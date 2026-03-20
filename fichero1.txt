@@ -1,5 +1,1 @@
- HEAD
-"Línea modificada desde la rama MAIN"
-
-"Línea modificada desde la rama FEATURE"
- feature/Ibrahim
+"Línea modificada desde la rama MAIN".
