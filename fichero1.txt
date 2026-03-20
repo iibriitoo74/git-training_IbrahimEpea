@@ -1,5 +1,1 @@
-"Primera linea" 
-"Hola que tal"
-"Buenas tardes"
-"Hola desde IntelliJ"
-"Buenos días desde IntelliJ"
+"Línea modificada desde la rama MAIN"
