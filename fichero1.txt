@@ -2,6 +2,4 @@
 "Hola que tal"
 "Buenas tardes"
 "Hola desde IntelliJ"
-"Esto es una nueva funcionalidad que estoy creando en una rama nueva y las otras lineas no tienen sentido ahora, Ibrahim".
-"Otro cambio mas desde IntelliJ"
-
+"Buenos días desde IntelliJ"
